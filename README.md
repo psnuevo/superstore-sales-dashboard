@@ -46,13 +46,13 @@ The Tableau workbook file is included in this repository:
 - `dashboard/tableau_dashboard.twbx`
 
 ### Dashboard Highlights
-- **Sales Trends**: Monthly sales and revenue breakdown.
-  ![sales per year]images/sales_per_year.png
-  ![sales per month]images/sales_per_month.png
-- **Regional Performance**: Top-performing regions visualized on a map.
-  ![sales per_state]images/sales_per_state.png
-- **Product Performance**: Top-performing products.
-  ![top products]images/top_products.png
+- **Sales Trends**: Monthly sales and revenue breakdown
+  ![Sales per Year](images/sales_per_year.png)
+  ![Sales per Month](images/sales_per_month.png)
+- **Regional Performance**: Top-performing regions visualized on a map
+  ![Sales per State](images/sales_per_state.png)
+- **Product Performance**: Top-performing products
+  ![Top Products](images/top_products.png)
 ---
 
 ## Key SQL Queries
