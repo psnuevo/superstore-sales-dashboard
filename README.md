@@ -47,12 +47,12 @@ The Tableau workbook file is included in this repository:
 
 ### Dashboard Highlights
 - **Sales Trends**: Monthly sales and revenue breakdown.
-  ![sales per year](images/sales_per_year.png)
-  ![sales per month](images/sales_per_month.png)
+  ![sales per year]images/sales_per_year.png
+  ![sales per month]images/sales_per_month.png
 - **Regional Performance**: Top-performing regions visualized on a map.
-  ![sales per_state](images/sales_per_state.png)
+  ![sales per_state]images/sales_per_state.png
 - **Product Performance**: Top-performing products.
-  ![top products](images/top_products.png)
+  ![top products]images/top_products.png
 ---
 
 ## Key SQL Queries
